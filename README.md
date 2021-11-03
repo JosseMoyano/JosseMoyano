@@ -4,7 +4,7 @@
 
 - 💻 &nbsp; Soy Full Stack Developer con orientación al Front-end..
 
-- 🎓 &nbsp; Estoy terminando el bootcamp de Soy Henry y comencé a estudiar Ciencias de la Computación en la UBA.
+- 🎓 &nbsp; Terminé el bootcamp de Soy Henry y comencé a estudiar Ciencias de la Computación en la UBA.
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -14,7 +14,7 @@ const Josse = {
    tecnologías: {
       frontEnd: {
          js: ["React", "Redux"],
-         css: ["Bootstrap", "Motion Framer", "Styled Components"]
+         css: ["Bootstrap", "Motion Framer", "Styled Components", "Material-UI"]
       },
       backEnd: {
          js: ["Node.js", "Express"],
