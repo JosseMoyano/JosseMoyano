@@ -14,7 +14,7 @@ const Josse = {
    tecnologías: {
       frontEnd: {
          js: ["React", "Redux"],
-         css: ["Bootstrap", "Motion Framer", "Styled Components", "Material-UI"]
+         css: ["Bootstrap", "Styled Components", "Material-UI"]
       },
       backEnd: {
          js: ["Node.js", "Express"],
